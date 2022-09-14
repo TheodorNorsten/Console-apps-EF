@@ -1,0 +1,14 @@
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\TrainBooking.exe.config
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\TrainBooking.exe
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\TrainBooking.pdb
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\EntityFramework.dll
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\EntityFramework.xml
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.csproj.AssemblyReference.cache
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.csproj.CoreCompileInputs.cache
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.csproj.CopyComplete
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.exe
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.pdb
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.initialCommit.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.csproj.GenerateResource.cache
