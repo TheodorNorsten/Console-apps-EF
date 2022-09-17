@@ -53,11 +53,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\Domain\TrainSeatType.cs" />
+    <Compile Include="Core\Domain\Train.cs" />
+    <Compile Include="Core\Domain\TrainRoute.cs" />
+    <Compile Include="Core\Domain\TrainCabin.cs" />
+    <Compile Include="Core\Domain\TrainSeat.cs" />
     <Compile Include="Migrations\202209142021408_initialCommit.cs" />
     <Compile Include="Migrations\202209142021408_initialCommit.designer.cs">
       <DependentUpon>202209142021408_initialCommit.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202209171107322_AddTrainAndTrainRoutesModelToDb.cs" />
+    <Compile Include="Migrations\202209171107322_AddTrainAndTrainRoutesModelToDb.designer.cs">
+      <DependentUpon>202209171107322_AddTrainAndTrainRoutesModelToDb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202209171208141_EnchanceTrainAndRouteEntity.cs" />
+    <Compile Include="Migrations\202209171208141_EnchanceTrainAndRouteEntity.designer.cs">
+      <DependentUpon>202209171208141_EnchanceTrainAndRouteEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202209171451466_AddTrainCabinToTable.cs" />
+    <Compile Include="Migrations\202209171451466_AddTrainCabinToTable.designer.cs">
+      <DependentUpon>202209171451466_AddTrainCabinToTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202209171742089_AddSeatsAndSeatTypeToTable.cs" />
+    <Compile Include="Migrations\202209171742089_AddSeatsAndSeatTypeToTable.designer.cs">
+      <DependentUpon>202209171742089_AddSeatsAndSeatTypeToTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202209171906080_EnhanceTrainSeatTypeModel.cs" />
+    <Compile Include="Migrations\202209171906080_EnhanceTrainSeatTypeModel.designer.cs">
+      <DependentUpon>202209171906080_EnhanceTrainSeatTypeModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202209171908583_SeatTypeConfig.cs" />
+    <Compile Include="Migrations\202209171908583_SeatTypeConfig.designer.cs">
+      <DependentUpon>202209171908583_SeatTypeConfig.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Persistence\EntityTypeConfigurations\TrainConfigurations.cs" />
+    <Compile Include="Persistence\EntityTypeConfigurations\TrainRouteConfigurations.cs" />
+    <Compile Include="Persistence\EntityTypeConfigurations\TrainCabinConfigurations.cs" />
+    <Compile Include="Persistence\EntityTypeConfigurations\TrainSeatTypeConfigurations.cs" />
     <Compile Include="Persistence\TrainContext.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,12 +100,29 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Core\Domain\" />
     <Folder Include="Core\Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202209142021408_initialCommit.resx">
       <DependentUpon>202209142021408_initialCommit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171107322_AddTrainAndTrainRoutesModelToDb.resx">
+      <DependentUpon>202209171107322_AddTrainAndTrainRoutesModelToDb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171208141_EnchanceTrainAndRouteEntity.resx">
+      <DependentUpon>202209171208141_EnchanceTrainAndRouteEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171451466_AddTrainCabinToTable.resx">
+      <DependentUpon>202209171451466_AddTrainCabinToTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171742089_AddSeatsAndSeatTypeToTable.resx">
+      <DependentUpon>202209171742089_AddSeatsAndSeatTypeToTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171906080_EnhanceTrainSeatTypeModel.resx">
+      <DependentUpon>202209171906080_EnhanceTrainSeatTypeModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202209171908583_SeatTypeConfig.resx">
+      <DependentUpon>202209171908583_SeatTypeConfig.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

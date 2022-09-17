@@ -12,3 +12,9 @@ C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\Trai
 C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.pdb
 C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.initialCommit.resources
 C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.csproj.GenerateResource.cache
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.AddTrainAndTrainRoutesModelToDb.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.EnchanceTrainAndRouteEntity.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.AddTrainCabinToTable.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.AddSeatsAndSeatTypeToTable.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.EnhanceTrainSeatTypeModel.resources
+C:\Users\thenor\source\My_Projects\Entity FrameWork\GitHubProjects\TrainApp\TrainBooking\TrainBooking\obj\Debug\TrainBooking.Migrations.SeatTypeConfig.resources
